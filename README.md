@@ -12,9 +12,8 @@ Grayson Williams - https://github.com/graysonbw1/4610Project.git
 
 Angela Dinh - https://github.com/angeladinh/Project.git
 
-A brief description of what this project does and who it's for
-
 Problem Description:
+
 In order to effectively manage and track information about multiple country clubs, we have created a database to track various entities. We are tracking the different clubs that exist as well as the staff that helps operate the clubs. We have also modeled the different facilities at each club, including the various reservations that occur. This is good information to track because then members can be informed on the capacity remaining in each facility. This leads to the tracking of each member of the clubs, including an augment of their membership information. We have added different membership plans, opposed to membership being a flat rate fee, we have given members the ability to select from six different plan types that will best fit their needs. This leads to an entity for PlanDetials, which provides information about which member has what plan. Next, we have tracked the events held by the country club along with which member is registered for the event. One last detail we are tracking is the number of visits made by each member to the country clubs, as this information will enable the club owners to gain insight into when clubs are busier and when they are slower. This type of detail can allow club owners to make smarter choices when hosting events.
 
 Data Model:
