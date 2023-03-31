@@ -2,15 +2,15 @@
 
 # COUNTRY CLUB DATABASE
 
-Kalen Patel 
+Kalen Patel - https://github.com/kalenpatel02/ns_21482_7.git
 
-Shivani Patel
+Shivani Patel - https://github.com/shivupate/ProjectOne.git
 
-Luke Staggs
+Luke Staggs - https://github.com/McStagger20/Project-21842_7.git
 
-Grayson Williams
+Grayson Williams - https://github.com/graysonbw1/4610Project.git
 
-Angela Dinh
+Angela Dinh - https://github.com/angeladinh/Project.git
 
 A brief description of what this project does and who it's for
 
